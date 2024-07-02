@@ -23,7 +23,7 @@
       			<a class="nav-link" href="home.php">Home</a>
     		</li>
     		<li class="nav-item">
-      			<a class="nav-link" href="practice.php">About Us</a>
+      			<a class="nav-link" href="practice.php">About-Us</a>
     		</li>
 			<!-- from here we will build the cfy page: 
 	<div class="background">
