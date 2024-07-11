@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="Home.css">
-
 <?php session_start(); ?>
 <!DOCTYPE html>
 <html>
